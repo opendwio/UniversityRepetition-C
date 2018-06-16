@@ -1,6 +1,6 @@
 /********************************
-*???????.c					*
-*simple calculator	*
+*calculator.c					*
+*simple calculator				*
 *Author: opendwio				*
 *Date: 16.06.18					*
 *********************************/
