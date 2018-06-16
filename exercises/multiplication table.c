@@ -1,9 +1,9 @@
-/********************************
-*calculator.c					*
-*multiplication table			*
-*Author: opendwio				*
-*Date: 16.06.18					*
-*********************************/
+/************************
+*multiplication table.c	*
+*multiplication table	*
+*Author: opendwio		*
+*Date: 16.06.18			*
+*************************/
 #include <stdio.h>
 #include <conio.h>
 void calculate(){
