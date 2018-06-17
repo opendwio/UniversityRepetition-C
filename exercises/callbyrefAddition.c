@@ -5,9 +5,8 @@
 *Date: 17.06.18												*
 *************************************************************/
 #include <stdio.h>
-int add(int a, int b, int *c){
+void add(int a, int b, int *c){
 	*c =a +b;
-	return *c ;
 }
 int main() {
 	int x, y;
